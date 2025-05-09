@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "description": "Build a login form using HTML, CSS, and JavaScript",
+    "difficulty": "Easy",
+    "status": "Not Started",
+    "estimatedTimeHours": 2,
+    "category": "Frontend"
+  },
+  {
+    "id": 2,
+    "description": "Create a REST API using Node.js and Express",
+    "difficulty": "Medium",
+    "status": "In Progress",
+    "estimatedTimeHours": 4,
+    "category": "Backend"
+  },
+  {
+    "id": 3,
+    "description": "Design a landing page with responsive layout",
+    "difficulty": "Medium",
+    "status": "Completed",
+    "estimatedTimeHours": 3,
+    "category": "Design"
+  },
+  {
+    "id": 4,
+    "description": "Set up a MongoDB database and connect it to a Node app",
+    "difficulty": "Medium",
+    "status": "Not Started",
+    "estimatedTimeHours": 2,
+    "category": "Database"
+  },
+  {
+    "id": 5,
+    "description": "Write unit tests for a JavaScript module",
+    "difficulty": "Hard",
+    "status": "In Progress",
+    "estimatedTimeHours": 5,
+    "category": "Testing"
+  },
+  {
+    "id": 6,
+    "description": "Implement user authentication with JWT",
+    "difficulty": "Hard",
+    "status": "Not Started",
+    "estimatedTimeHours": 6,
+    "category": "Security"
+  },
+  {
+    "id": 7,
+    "description": "Optimize image loading for a website",
+    "difficulty": "Easy",
+    "status": "Completed",
+    "estimatedTimeHours": 1,
+    "category": "Performance"
+  },
+  {
+    "id": 8,
+    "description": "Add dark mode toggle to a web app",
+    "difficulty": "Easy",
+    "status": "Completed",
+    "estimatedTimeHours": 1.5,
+    "category": "Frontend"
+  },
+  {
+    "id": 9,
+    "description": "Refactor legacy code to modern ES6+ standards",
+    "difficulty": "Hard",
+    "status": "In Progress",
+    "estimatedTimeHours": 4,
+    "category": "Code Maintenance"
+  },
+  {
+    "id": 10,
+    "description": "Deploy a full-stack app to Heroku",
+    "difficulty": "Medium",
+    "status": "Not Started",
+    "estimatedTimeHours": 3,
+    "category": "Deployment"
+  },
+  {
+    "id": "1746815115131",
+    "description": "Rest",
+    "difficulty": "Easy",
+    "status": "Not Started",
+    "estimatedTimeHours": 2,
+    "category": "Frontend"
+  }
+]
